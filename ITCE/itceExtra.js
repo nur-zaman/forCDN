@@ -7,5 +7,5 @@ function getSemesterName() {
 }
 
 function getDataURL() {
-    return ''
+    return 'https://gitcdn.link/cdn/nur-zaman/forCDN/main/ITCE/data/FALL2022.json'
 }
