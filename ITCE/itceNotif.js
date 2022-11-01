@@ -1,4 +1,3 @@
-const node =document.querySelector('#notif')
+const node = document.querySelector("#notif");
 
-node.innerHTML=' Class Schedule Updated For FALL2022 '
-
+node.innerHTML = "";
